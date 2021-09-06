@@ -2,5 +2,5 @@ node_modules
 
 # cypress
 cypress/videos
-cypress/screenshorts
+cypress/screenshots
 cypress/reports
