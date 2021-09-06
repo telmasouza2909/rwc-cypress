@@ -1,0 +1,22 @@
+{
+  "name": "rwc-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "cy:chrome": "npx cypress run --browser chrome --headless",
+    "cy:firefox": "npx cypress run --browser firefox --headless",
+    "cy:edge": "npx cypress run --browser edge --headless",
+    "cy:electron": "npx cypress run",
+    "report:clean": "rm -rf cypress/reports/* cypress/screenshots/* cypress/videos/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "7.7.0",
+    "faker": "^5.5.3"
+  }
+}
