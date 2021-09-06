@@ -3,8 +3,8 @@
     "baseUrl": "https://demo.realworld.io/#/",
     "apiUrl": "https://conduit.productionready.io/api/",
     "user": {
-        "email": "emailemailasdasd@email.com",
-        "password": "123456789"
+        "email": "teste.rwc.bootcamp@teste.com",
+        "password": "12345678"
     },
     "reporter": "junit",
     "reporterOptions": {
